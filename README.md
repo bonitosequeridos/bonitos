@@ -9,7 +9,7 @@ Estaremos utilizando o site do [Alura](https://www.alura.com.br)
 
 
 
-@leeduncke_
+
 
 
 ![](https://media.tenor.com/8v6tXqIfo18AAAAC/wow-beautiful.gif
